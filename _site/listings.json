@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/weeks/Week01.html",
+    "items": [
+      "/lectures/Lecture01.html",
+      "/labs/Lab01.html",
+      "/hw/hw01.html"
+    ]
+  },
+  {
+    "listing": "/weeks/Week03.html",
+    "items": [
+      "/lectures/Lecture03.html",
+      "/labs/Lab03.html",
+      "/hw/hw03.html"
+    ]
+  },
+  {
+    "listing": "/weeks/Week02.html",
+    "items": [
+      "/lectures/Lecture02.html",
+      "/labs/Lab02.html",
+      "/hw/hw02.html"
+    ]
+  },
+  {
+    "listing": "/schedule.html",
+    "items": [
+      "/weeks/Week01.html",
+      "/weeks/Week02.html",
+      "/weeks/Week03.html"
+    ]
+  }
+]

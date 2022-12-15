@@ -1,0 +1,11 @@
+---
+title: "Lecture03: Didn't touch it!"
+author: "Dr. Gordon Wright"
+date: "December 12, 2022"
+footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
+logo: "images/logo.png"
+categories: "Lecture"
+---
+
+# Slide content
+

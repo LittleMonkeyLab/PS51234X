@@ -1,0 +1,40 @@
+---
+title: "Schedule"
+listing:
+  - id: schedule
+    contents:
+      - weeks/Week*.qmd
+    type: table
+    fields: [title, description, subtitle]
+    field-display-names:
+      title: "Week"
+      description: "Dates"
+      subtitle: "Topic"
+    date-format: "MMMM DD, YYYY"
+    sort: [filename]
+    sort-ui: false
+    filter-ui: false
+ #tbl-colwidths: [5,20,50]
+editor: visual
+---
+
+## Weekly schedule
+
+::: {#schedule}
+:::
+
+## Coursework
+
+Here are some assessment items
+
+### Homework
+
+2 hrs per week
+
+### Labs
+
+2 hrs per week
+
+### Exams
+
+2 hrs face to face

@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "Template Psych Website"
+  navbar: 
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Syllabus"
+        file: syllabus.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+  sidebar:
+    background: primary
+    collapse-level: 1
+    logo: "images/LMLLOGO.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        text: GitHub
+      - icon: cloud-fill
+        text: RStudio Cloud
+    style: docked
+    contents: 
+    - section: Weeks
+      contents: weeks/*
+    - section: Lectures
+      contents: lectures/*
+    - section: Labs
+      contents: labs/*
+    - section: Independent Study
+      contents: hw/*
+modulecode: 'PS51234X'        
+format:
+  html:
+    theme: cosmo
+   # css: styles.css
+    toc: true
+    
+keep-tex: true
+
+execute: 
+  freeze: true

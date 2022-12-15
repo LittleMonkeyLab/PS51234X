@@ -1,0 +1,72 @@
+---
+title: "Lecture01: Psych Science"
+subtitle: "Example lecture"
+date: "August 29, 2022"
+footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
+logo: "images/logo.png"
+categories: "Lecture"
+---
+
+::: {.content-visible when-format="html"}
+```{=html}
+<iframe src="https://ps52007dslides.littlemonkeylab.com/lectures/Lecture01/Lecture01.html" width="100%" height="400" style="border:1px solid black;">
+</iframe>
+```
+If you prefer to view the demo in a standalone browser you can do that [here](http://ps52007dslides.littlemonkeylab.com/labs/Lab02/Lab02.html){target="_blank"}. Check out the [source code](https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd) for the demo to see how the slides were created.
+:::
+
+# Welcome!
+
+sdga
+
+## Bullet point list
+
+**Unordered**
+
+-   Item A
+-   Item B
+-   Item C
+
+**Ordered**
+
+1.  Item 1
+2.  Item 2
+3.  Item 3
+
+## Incremental list
+
+::: incremental
+-   Item 1
+-   Item 2
+-   Item 3
+:::
+
+## Equations
+
+Write mathematical symbols and equations using Latex.
+
+## Columns
+
+::: columns
+::: {.column width="50%"}
+Calculate the proportion of penguins from each species.
+:::
+
+::: {.column width="50%"}
+bazinga
+:::
+:::
+
+## Themes
+
+Customize the appearance of the slides using
+
+-   Built-in [Reveal theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)
+
+-   Modify built-in theme using [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)
+
+    -   Variant of CSS that supports variables and other features
+
+-   Create custom thing using Sass
+
+Specify the theme and/or Sass file (.scss) in the YAML

@@ -1,0 +1,26 @@
+---
+title: "Introduction to Psychology Website"
+---
+
+## Course overview
+
+**Course overview for Psych at Goldsmiths**
+
+Introductory text
+
+## Class meetings
+
+| Meeting | Location | Time                   |
+|---------|----------|------------------------|
+| Lecture | Room A   | time|
+| Lab 01  | Room B   | time       |
+| Lab 02  | Room C   | time         |
+| Lab 03  | Room D   | time     |
+
+## Teaching team 
+
+| Name                 | Office hours   | Location   |
+|----------------------|----------------|------------|
+| Instructor           | Tue 2 - 3pm    | Office 123 |
+| Teaching Assistant 1 | Mon 5 - 7pm    | Zoom       |
+| Teaching Assistant 2 | Fri 11am - 1pm | Zoom       |
